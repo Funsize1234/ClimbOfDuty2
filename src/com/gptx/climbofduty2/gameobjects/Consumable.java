@@ -44,7 +44,6 @@ public class Consumable extends GameObject
 	public void update()
 	{
 		super.update();
-		
 		if(tick < 8)
 		{
 			tick++;
