@@ -18,7 +18,7 @@ public class Interpolation {
 	
 	/**
 	 * 
-	 * COPY OF UNITY SMOOTH DAMP PULLED FROM UNITY C REFERENCE
+	 * COPY OF UNITY SMOOTH DAMP PULLED FROM UNITY C# REFERENCE
 	 * 
 	 * @param currentPos
 	 * @param targetPos
